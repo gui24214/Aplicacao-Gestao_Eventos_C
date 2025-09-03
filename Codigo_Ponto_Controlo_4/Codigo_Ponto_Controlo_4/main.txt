@@ -1,0 +1,35 @@
+Algoritmo main(menu)
+Início
+    Declarar variável inteira opcao
+
+    Escrever "============================================="
+    Escrever "**********BEM VINDO AO HUBEVENTOS************"
+    Escrever "============================================="
+    Escrever "1 - Criar Evento"
+    Escrever "2 - Listar próximos Eventos"
+    Escrever "3 - Editar Evento"
+    Escrever "4 - Criar perfil"
+    Escrever "5 - Sair"
+    Escrever "Escolha uma opção:"
+    Leia opcao
+
+    Faça um switch na variável opcao
+        Caso 1:
+            Chame a função create_event()
+            Saia do switch
+        Caso 2:
+            // Chamar a função listar_event() (comentado no código original)
+            Saia do switch
+        Caso 3:
+            // Código para editar evento (não implementado)
+            Saia do switch
+        Caso 4:
+            // Código para criar perfil (não implementado)
+            Saia do switch
+        Caso 5:
+            // Código para sair (não implementado)
+            Saia do switch
+    Fim do switch
+
+    Retorne 0
+Fim
