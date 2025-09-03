@@ -1,0 +1,25 @@
+# Arquivos binários / executáveis
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Pastas de build
+/build/
+/dist/
+
+# VS Code
+.vscode/
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+
+# Backup de editores
+*~
+*.swp
