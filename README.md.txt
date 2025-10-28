@@ -25,7 +25,7 @@ mostrar bilhetes.
 
 ## Estrutura do projeto
 eventos-c/
-├── src/ # ficheiros .c e .h
+├── src/ # ficheiros .c  e .h
 ├── README.md
 └── .gitignore
 
@@ -38,4 +38,5 @@ gcc -Wall -O2 -o eventos src/*.c
 ./eventos
 
 ## Autor
-Teu Nome — gui24214
+gui24214
+
